@@ -1,3 +1,3 @@
-# IntentSederhana
+# Belajar Intent
 
-Belajar membuat Intent sederhana
+Belajar membuat Intent 
